@@ -68,7 +68,7 @@ A perfect name for a company in the cellular industry, this name will provide id
                 private - boolean
                 user_id - Cliente modelo
                 inf_favor - boolean (true || false) - True caso ele seja favor e false caso não.
-                comment - Comentário sobre sua votação  (não é obrigatóro esse campo)
+                comment - long(text) Comentário sobre sua votação  (não é obrigatóro esse campo)
 
         - Selo
             Cada Cliente(população) teria um selo de partipação sobre as pautas e projetos votados assim ganhando pontuação.
